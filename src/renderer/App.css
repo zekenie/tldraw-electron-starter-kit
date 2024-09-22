@@ -4,7 +4,6 @@
  */
  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700&display=swap');
 
-
  .tldraw__editor {
   font-family: "Inter";
   position: fixed;
@@ -68,3 +67,4 @@ a:hover {
   align-items: center;
   margin: 20px 0;
 } */
+@import 'tailwind.css';

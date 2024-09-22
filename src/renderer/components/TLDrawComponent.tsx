@@ -1,3 +1,5 @@
+import '../tailwind.css';
+
 import { Tldraw } from '@tldraw/tldraw';
 import React from 'react';
 import 'tldraw/tldraw.css';

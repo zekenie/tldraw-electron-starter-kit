@@ -13,7 +13,7 @@ export const customTools = [IDEShapeTool];
 
 const TLDrawComponent: React.FC = () => {
   return (
-    <div className="tldraw__editor" style={{}}>
+    <div className="tldraw__editor">
       <Tldraw
         shapeUtils={customShapeUtils}
         tools={customTools}

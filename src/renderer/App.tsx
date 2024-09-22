@@ -1,3 +1,4 @@
+import './App.css';
 import { MemoryRouter as Router, Routes, Route } from 'react-router-dom';
 import TLDrawComponent from './components/TLDrawComponent';
 
